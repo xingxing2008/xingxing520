@@ -4,16 +4,16 @@
 
 | 时间     | 状态           | 数值(mmol/l) | 记录人 |
 | ---------- | ---------------- | ------------ | ------ |
-| 0129-10:30 | 已完成        | 23.2         | 朱星谚 |
-| 0129-14:00 | 待完成（待记录） |              |        |
-| 0129-14:00 | 待完成（待记录） |              |        |
-| 0129-16:00 | 待完成（待记录） |              |        |
-| 0129-18:00 | 待完成（待记录） |              |        |
-| 0129-20:00 | 待完成（待记录） | | |
-| 0130-空腹 | 待完成（待记录） |              |        |
-| 0130-10:00 | 待完成（待记录） |              |        |
-| 0130-12:00 | 待完成（待记录） |              |        |
-| 0130-14:00 | 待完成（待记录） |              |        |
-| 0130-16:00 | 待完成（待记录） |              |        |
-| 0130-18:00 | 待完成（待记录） |              |        |
-| 0130-20:00 | 待完成（待记录） |              |        |
+| 0129-10:30 |  ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成        | ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/red.png) 23.2         | 朱星谚 |
+| 0129-14:00 | ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 待完成（待记录） |              |        |
+| 0129-14:00 | ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 待完成（待记录） |              |        |
+| 0129-16:00 | ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 待完成（待记录） |              |        |
+| 0129-18:00 | ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 待完成（待记录） |              |        |
+| 0129-20:00 | ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 待完成（待记录） | | |
+| 0130-空腹 | ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 待完成（待记录）|              |        |
+| 0130-10:00 | ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 待完成（待记录） |              |        |
+| 0130-12:00 | ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 待完成（待记录） |              |        |
+| 0130-14:00 | ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 待完成（待记录） |              |        |
+| 0130-16:00 | ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 待完成（待记录） |              |        |
+| 0130-18:00 | ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 待完成（待记录） |              |        |
+| 0130-20:00 | ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 待完成（待记录） |              |        |
