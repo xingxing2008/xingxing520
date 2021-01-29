@@ -9,7 +9,7 @@
 | 0129-16:00 |  ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成 | ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 18.4              | 朱星谚  |
 | 0129-(晚饭前)|  ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成 | ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 11.5              | 董方群   |
 | 0129-20:00 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成 |![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 17.8   |董方群 |
-| 0129-22:00 |  ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 待完成（待记录） | | |
+| 0129-22:00 |  ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成 |![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 18.8   |朱星谚 |
 | 0130-空腹 |  ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 待完成（待记录）|              |        |
 | 0130-10:00 |  ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 待完成（待记录） |              |        |
 | 0130-12:00 |  ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 待完成（待记录） |              |        |
