@@ -15,7 +15,7 @@
 | 0130-14:00 |  ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成 |  ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png) 16.6             |      董方群  |
 | 0130-16:00 |  ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成 | ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 12.4  |   朱星谚     |
 | 0130-18:00 |  ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成 | ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 20.8  |   朱星谚     |
-| 0130-20:00 |  ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成
-） |       ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/red.png) 26.6  |   董方群     |
+| 0130-20:00 |  ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成|       ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/red.png) 26.6  |   董方群     |
 | 0131-8:20 |  ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png)15.5 |  董方群     |
 | 0131-15:30|   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png)18.5 |  朱星谚   |
+| 0131-8:00|   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/orange.png)16.5 |  董方群   |
