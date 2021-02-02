@@ -27,3 +27,7 @@
 | 0201-20:00 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/red.png)15.5 |  董方群   |
 | 0202-7:30 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/red.png)13.2 | 朱星谚  |
 | 0202-10:00 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/red.png)20.4 | 朱星谚  |
+| 0202-15:00 | 已完成 | 18.9 | 朱星谚 |
+| 0202-16:30 | 已完成 | 17.3 | |
+| 0202-20:00 | 已完成 | 21.1 | |
+| 0202-22:00 | 已完成 | 17.9 |  |
