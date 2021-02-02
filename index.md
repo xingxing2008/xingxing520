@@ -25,3 +25,5 @@
 | 0201-15:00 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/red.png)21.2 |  董方群   |
 | 0201-17:30 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/red.png)21.6 |  董方群   |
 | 0201-20:00 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/red.png)15.5 |  董方群   |
+| 0202-7:30 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/red.png)13.2 | 朱星谚  |
+| 0202-10:00 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/green.png) 已完成 |   ![](https://cdn.jsdelivr.net/gh/xingxing2008/temp001/red.png)20.4 | 朱星谚  |
